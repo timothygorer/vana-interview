@@ -1,4 +1,6 @@
-`npm install`
-`node interview.js`
+1. `npm install`
+
+
+2. `node interview.js`
 
 
